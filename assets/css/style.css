@@ -35,7 +35,9 @@ a {
     color:#aaa;
     text-decoration: none; 
 }
-
+form {
+    margin-left:2%;
+}
 /* End Main Header */
 
 .mainContent {
@@ -380,5 +382,11 @@ table tr td {
         width:100%;
        
     }
+    .divHeadBorder {
+        border-bottom:4px solid #4aaaa5;
+        width:100%;
+        padding-top:20px;
+     }
+
     
 }
